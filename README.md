@@ -3,7 +3,7 @@
 
 <a href="https://github.com/berdun/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/berdun/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=berdun&column=6&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=berdun&column=5&theme=gruvbox&no-frame=true"/>
 </a>
 
 
