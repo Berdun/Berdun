@@ -1,5 +1,19 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=berdun&theme=onedark)](https://github.com/berdun/github-profile-trophy)
+
+<a href="https://github.com/berdun/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/berdun/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=berdun&column=9&theme=gruvbox&no-frame=true"/>
+</a>
+
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=berdun&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdun&layout=compact" />
+</div>
+
 <!--
 **Berdun/Berdun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
