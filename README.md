@@ -11,7 +11,7 @@
 
 <div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdun&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdun&layout=compact&theme=gruvbox" />
 </div>
 
 <!--
