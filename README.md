@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=berdun&theme=onedark)](https://github.com/berdun/github-profile-trophy)
 <!--
 **Berdun/Berdun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
