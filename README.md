@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=berdun&theme=onedark)](https://github.com/berdun/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=berdun&theme=onedark)](https://github.com/berdun/github-profile-trophy) -->
 
 <a href="https://github.com/berdun/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/berdun/github-profile-trophy">
